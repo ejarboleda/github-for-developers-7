@@ -1,0 +1,4 @@
+ - Your name: EJ Arboleda
+ - Where you are from: Manila, PH
+ - A favorite food: Pork Sinigang
+ - A hobby: Boardgames
